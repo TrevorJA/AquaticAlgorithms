@@ -1,4 +1,0 @@
-# Aquatic Algorithms
-
-Welcome!
-
