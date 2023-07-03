@@ -1,7 +1,9 @@
-# AquaticAlgorithms
-This repository contains all material for an introductory course/internship on water resource systems analysis.
+# Aquatic Algorithms: Exploring hydrology through data science
 
-## Aquatic Algorithms: Exploring hydrology through data science
+![A map of streams in the USA](https://github.com/TrevorJA/AquaticAlgorithms/Figures/usa_streams_dark.png)
+
+
+This repository contains all material for an introductory course/internship on water resource systems analysis.
 
 ## Schedule:
 - Monday 7/24, Tuesday 7/25, and Thursday 7/27 from 1-4 PM 
@@ -10,6 +12,25 @@ This repository contains all material for an introductory course/internship on w
 ## Location:
 [Carpenter Hall](https://goo.gl/maps/NECRzibQxNmpxXMT7), Cornell University, 313 Campus Rd, Ithaca, NY 14850
 
+## Table of Contents
+
+- [Course Overview](#course-overview)
+- [Goals](#goals)
+- [Daily Schedule](#daily-schedule)
+- [Internship Materials](#internship-materials)
+	- [Presentations](#presentations)
+	- [Coding Activities](#coding-activities)
+	- [Readings](#reading)
+	- [Other](#other)
+- [Case Study](#case-study-overview)
+	- [Objectives](#case-study-objectives)
+	- [Presentation](#end-of-summer-presentation)
+
+
+***
+## Course Overview
+
+
 ## Goals: 
 - Learn about the complexity of climate, hydrology, and their interactions with the human environment. 
 - Learn about the role of water resource engineers, data science, and environmental modeling in the environmental management. 
@@ -17,7 +38,14 @@ This repository contains all material for an introductory course/internship on w
 - Gain familiarity with probability and statistics concepts, how they can be used in environmental studies, and how to use code to measure them.
 - Complete a case study for a student-chosen location of interest, focused on the unique interactions between the hydrology and the human system.
 
-## Coding Activities
+## Internship Materials
+
+
+### Presentations
+
+
+
+### Coding Activities
 
 Throughout the internship you will learn some basic coding skills, and run some code of your own. 
 
@@ -31,7 +59,13 @@ The four coding activities are available in the Aquatic Algorithms repository an
 - `Part2_intro_to_environmental_statistics.ipynb`
 - `Part3_mapping_watershed.ipynb`
 
+### Reading
 
+### Other
+
+
+
+***
 ## Daily Schedule
 
 | Date | Summary |
@@ -48,7 +82,7 @@ The four coding activities are available in the Aquatic Algorithms repository an
 
 Over the course of the internship, the students will be tasked with preparing a poster-based case study of a unique water resource system.
 
-### Case Study Objectives
+### Objectives
 1. Gain familiar with both the human and natural context for the case study of interest.
 	1. Identify the critical water resource infrastructure in the region
 	2. Identify the primary water resource challenges and objectives
@@ -57,4 +91,11 @@ Over the course of the internship, the students will be tasked with preparing a 
 	1. Design data visualizations that help to describe the hydrologic characteristics of the region (done through coding activities)
 	2. Draw connections between natural hydrologic processes and urban challenges in the past for this location. 
 	3. Design a poster which emphasizes a unique narrative for the case study location (e.g., how a historic drought impacted the residents, how the populations are growing and stressing water supplies, how new infrastructure options may be needed in the future)
+
+### End-of-Summer Presentation
+
+Students will prepare a poster-presentation highlighting their case study at the end of the internship period. Currently, the STEP-UP program expects to host a **Sympoisum on August 16th, where students will share their results.** However this date is not finalized. 
+
+
+***
 
