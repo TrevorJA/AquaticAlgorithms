@@ -1,6 +1,6 @@
 # Aquatic Algorithms: Exploring hydrology through data science
 
-![A map of streams in the USA](https://github.com/TrevorJA/AquaticAlgorithms/Figures/usa_streams_dark.png)
+![A map of streams in the USA](https://github.com/TrevorJA/AquaticAlgorithms/blob/main/Figures/usa_streams_dark.png)
 
 
 This repository contains all material for an introductory course/internship on water resource systems analysis.
