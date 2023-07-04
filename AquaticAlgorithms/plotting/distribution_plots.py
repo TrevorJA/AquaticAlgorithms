@@ -1,4 +1,6 @@
 """
+Contains functions used to make different plots to show distributions of data.
+
 Trevor Amestoy
 Cornell University 2023
 """
