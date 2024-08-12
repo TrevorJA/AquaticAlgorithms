@@ -8,10 +8,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-import sys
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 import scipy.stats as scs
 from scipy.stats import genextreme, pearson3
 from scipy.optimize import curve_fit
